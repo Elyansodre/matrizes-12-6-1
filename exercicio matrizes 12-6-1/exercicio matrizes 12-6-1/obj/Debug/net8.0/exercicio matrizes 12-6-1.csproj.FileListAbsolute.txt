@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\bin\Debug\net8.0\exercicio matrizes 12-6-1.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\bin\Debug\net8.0\exercicio matrizes 12-6-1.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\bin\Debug\net8.0\exercicio matrizes 12-6-1.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\bin\Debug\net8.0\exercicio matrizes 12-6-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\bin\Debug\net8.0\exercicio matrizes 12-6-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\refint\exercicio matrizes 12-6-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\exercicio matrizes 12-6-1.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio matrizes 12-6-1\exercicio matrizes 12-6-1\obj\Debug\net8.0\ref\exercicio matrizes 12-6-1.dll
